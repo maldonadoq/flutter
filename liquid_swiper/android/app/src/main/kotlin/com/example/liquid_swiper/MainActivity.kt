@@ -1,4 +1,4 @@
-package com.example.liquid_swipe
+package com.example.liquid_swiper
 
 import android.os.Bundle
 

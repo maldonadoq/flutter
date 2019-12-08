@@ -7,9 +7,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Liquid Swipe',
+      title: 'Flutter Demo',
       home: Center(
-        child: Text('Liquid!!'),
+        child: Text('Liquid'),
       ),
     );
   }

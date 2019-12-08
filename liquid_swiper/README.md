@@ -1,4 +1,4 @@
-# liquid_swipe
+# liquid_swiper
 
 A new Flutter project.
 
